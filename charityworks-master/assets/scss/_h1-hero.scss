@@ -42,7 +42,6 @@
             margin-bottom: 14px;
             color: #002d5b;
             line-height: 1.2;
-            text-transform: capitalize;
             margin-bottom: 29px;
             @media #{$lg}{
                 font-size: 60px;
@@ -68,7 +67,6 @@
             margin-bottom: 39px;
             color: $theme_color;
             margin-bottom: 37px;
-            text-transform: uppercase;
             display: inline-block;
             @media #{$xs}{
                 margin-bottom: 30px;
@@ -128,7 +126,7 @@
             color: #072366;
             font-size: 50px;
             font-weight: 800;
-            text-transform: capitalize;
+            
             line-height: 1;
             @media #{$sm}{
                 font-size: 50px;
