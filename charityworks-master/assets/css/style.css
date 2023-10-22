@@ -3230,7 +3230,7 @@ hr {
 
 /* line 102, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_headerMenu.scss */
 .header-area .header-top .header-info-right .select-this .nice-select::after {
-  border-bottom: 1px solid #687693;
+  border-bottom: 0px solid #687693;
   border-right: 1px solid #687693;
   height: 7px;
   width: 7px;
@@ -3468,7 +3468,7 @@ hr {
 
 /* line 2, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_h1-hero.scss */
 .slider-height {
-  height: 920px;
+  height: 700px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
