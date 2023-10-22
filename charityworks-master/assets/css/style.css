@@ -338,9 +338,9 @@ input:focus::-moz-placeholder {
 }
 
 /* line 101, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
-.capitalize {
-  text-transform: capitalize;
-}
+/* .capitalize {
+  /* text-transform: capitalize; */
+} */
 
 /* line 105, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 h1 a,
@@ -509,8 +509,7 @@ hr {
 /* line 245, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 .btn {
   background: #d82d33;
-  font-family: "Muli", sans-serif;
-  text-transform: capitalize;
+  font-family: "Muli", sans-serif;/*  text-transform: capitalize;*/
   padding: 27px 44px;
   color: #fff;
   cursor: pointer;
@@ -635,8 +634,7 @@ hr {
   height: 60px;
   padding: 10px 20px;
   border: 0;
-  color: #fff;
-  text-transform: capitalize;
+  color: #fff;/*  text-transform: capitalize;*/
   cursor: pointer;
   font-size: 16px;
   border-radius: 0px;
@@ -647,8 +645,7 @@ hr {
   border: 1px solid #ff5600;
   color: #464d65;
   background: none;
-  border-radius: 5px;
-  text-transform: capitalize;
+  border-radius: 5px;/*  text-transform: capitalize;*/
   padding: 19px 47px;
   -moz-user-select: none;
   cursor: pointer;
@@ -2971,7 +2968,6 @@ hr {
   font-weight: 700;
   margin-bottom: 22px;
   color: #d82d33;
-  text-transform: capitalize;
   display: inline-block;
   letter-spacing: 0.05em;
 }
@@ -2991,7 +2987,6 @@ hr {
   display: block;
   color: #072366;
   font-weight: 800;
-  text-transform: capitalize;
   line-height: 1.4;
 }
 
@@ -3677,7 +3672,7 @@ hr {
   color: #072366;
   font-size: 50px;
   font-weight: 800;
-  text-transform: capitalize;
+  
   line-height: 1;
 }
 
@@ -4760,8 +4755,7 @@ hr {
   color: #ffffff;
   font-size: 20px;
   margin-bottom: 29px;
-  font-weight: 400;
-  text-transform: capitalize;
+  font-weight: 400;/*  text-transform: capitalize;*/
 }
 
 /* line 11, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_footer.scss */
@@ -5113,8 +5107,7 @@ hr {
   font-weight: 700;
   line-height: 1.4;
   margin-bottom: 19px;
-  display: block;
-  text-transform: capitalize;
+  display: block;/*  text-transform: capitalize;*/
 }
 
 /* line 89, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_blog_page.scss */
@@ -6800,8 +6793,7 @@ hr {
   color: #fff;
   font-weight: 900;
   margin-bottom: 0;
-  font-family: "Muli", sans-serif;
-  text-transform: capitalize;
+  font-family: "Muli", sans-serif;/*  text-transform: capitalize;*/
 }
 
 @media (max-width: 767px) {
@@ -6853,8 +6845,7 @@ hr {
 
 /* line 63, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_bradcam.scss */
 .popup_box .boxed-btn3 {
-  width: 100%;
-  text-transform: capitalize;
+  width: 100%;/*  text-transform: capitalize;*/
 }
 
 /* line 67, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_bradcam.scss */

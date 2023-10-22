@@ -165,7 +165,7 @@
                     display: block;
                     font-size: 16px;
                     @include transition(.3s);
-                    text-transform: capitalize;
+                    /*  text-transform: capitalize;*/
                     @media #{$lg}{
                         padding: 39px 14px
                     }
