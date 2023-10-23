@@ -147,7 +147,7 @@
 // Header Bottom
 .main-header{
     position: relative;
-    z-index: 3;
+    z-index: 1;
     -webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
     .main-menu{
         @media #{$laptop}{
@@ -157,11 +157,11 @@
             & li{
                 display: inline-block;
                 position: relative;
-                z-index: 1;
+                z-index: 3;
                 & a{
                     color: #072366;
                     font-weight: 400;
-                    padding: 39px 19px;
+                    padding: 39px 29px;
                     display: block;
                     font-size: 16px;
                     @include transition(.3s);

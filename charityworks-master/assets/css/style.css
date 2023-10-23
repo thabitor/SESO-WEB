@@ -2767,8 +2767,8 @@ hr {
 
 /* line 810, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 .section-padding30 {
-  padding-top: 195px;
-  padding-bottom: 180px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3469,7 +3469,7 @@ hr {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   /* line 2, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_h1-hero.scss */
   .slider-height {
-    height: 700px;
+    height: 800px;
   }
 }
 
@@ -3523,9 +3523,9 @@ hr {
 
 /* line 32, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_h1-hero.scss */
 .slider-area {
-  background-image: url(../img/hero/front-page.jpg);
+  background-image: url(../img/hero/banner-bg.jpg);
   background-repeat: no-repeat;
-  background-position: bottom;
+  background-position: 25% 75%;
   background-size: cover;
 }
 
@@ -3534,7 +3534,8 @@ hr {
   font-size: 70px;
   font-weight: 800;
   margin-bottom: 14px;
-  color: #002d5b;
+  color: #ffffff;
+  text-align: center;
   line-height: 1.2;
   margin-bottom: 29px;
 }
